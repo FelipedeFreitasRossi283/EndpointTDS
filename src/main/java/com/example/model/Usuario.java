@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.model;
 public class Usuario {
     private Long id;
     private String nome;

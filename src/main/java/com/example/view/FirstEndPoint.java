@@ -1,4 +1,6 @@
-package com.example.demo;
+package com.example.view;
+import Desktop.EndpointTDS.src.main.java.com.example.demo.DeleteMapping;
+import com.example.model.Usuario;
 import org.springframework.web.bind.annotation.*;
 import java.util.*;
 
